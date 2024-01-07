@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C4D9E367-C93A-407B-B178-F296D5505E6D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CNPM</RootNamespace>
+    <AssemblyName>QuanLyNhaSach</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaoCaoCongNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoCongNo.Designer.cs">
+      <DependentUpon>BaoCaoCongNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessLogicTier\BaoCaoTonBLT.cs" />
+    <Compile Include="BusinessLogicTier\BaoCaoCongNoBLT.cs" />
+    <Compile Include="BusinessLogicTier\HoaDonBLT.cs" />
+    <Compile Include="BusinessLogicTier\KhachHangBLT.cs" />
+    <Compile Include="BusinessLogicTier\NhapSachBLT.cs" />
+    <Compile Include="BusinessLogicTier\SachBLT.cs" />
+    <Compile Include="BusinessLogicTier\ThamSoBLT.cs" />
+    <Compile Include="BorderBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BusinessLogicTier\ThuTienBLT.cs" />
+    <Compile Include="BaoCaoTon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCaoTon.Designer.cs">
+      <DependentUpon>BaoCaoTon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashLine.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccessTier\AccountDAT.cs" />
+    <Compile Include="DataAccessTier\BaoCaoCongNoDAT.cs" />
+    <Compile Include="DataAccessTier\BaoCaoTonDAT.cs" />
+    <Compile Include="DataAccessTier\ThuTienDAT.cs" />
+    <Compile Include="DataTransferObject\ThuTien.cs" />
+    <Compile Include="NumberInput.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccessTier\DBConnection.cs" />
+    <Compile Include="DataAccessTier\HoaDonDAT.cs" />
+    <Compile Include="DataAccessTier\KhachHangDAT.cs" />
+    <Compile Include="DataAccessTier\NhapSachDAT.cs" />
+    <Compile Include="DataAccessTier\SachDAT.cs" />
+    <Compile Include="DataAccessTier\ThamSoDAT.cs" />
+    <Compile Include="DataTransferObject\ChiTietHoaDon.cs" />
+    <Compile Include="DataTransferObject\ChiTietNhapSach.cs" />
+    <Compile Include="DataTransferObject\HoaDon.cs" />
+    <Compile Include="DataTransferObject\KhachHang.cs" />
+    <Compile Include="DataTransferObject\NhapSach.cs" />
+    <Compile Include="DataTransferObject\Sach.cs" />
+    <Compile Include="DataTransferObject\ThamSo.cs" />
+    <Compile Include="GlowBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LapHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LapHoaDon.Designer.cs">
+      <DependentUpon>LapHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHangForm.cs" />
+    <Compile Include="KhachHangForm.Designer.cs">
+      <DependentUpon>KhachHangForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuNhapSach.cs" />
+    <Compile Include="PhieuNhapSach.Designer.cs">
+      <DependentUpon>PhieuNhapSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuThuTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhieuThuTien.Designer.cs">
+      <DependentUpon>PhieuThuTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuiDinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuiDinh.Designer.cs">
+      <DependentUpon>QuiDinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SachForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SachForm.Designer.cs">
+      <DependentUpon>SachForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BaoCaoCongNo.resx">
+      <DependentUpon>BaoCaoCongNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoTon.resx">
+      <DependentUpon>BaoCaoTon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LapHoaDon.resx">
+      <DependentUpon>LapHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHangForm.resx">
+      <DependentUpon>KhachHangForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuNhapSach.resx">
+      <DependentUpon>PhieuNhapSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuThuTien.resx">
+      <DependentUpon>PhieuThuTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuiDinh.resx">
+      <DependentUpon>QuiDinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SachForm.resx">
+      <DependentUpon>SachForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

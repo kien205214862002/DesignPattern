@@ -1,0 +1,38 @@
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\bin\Debug\QuanLyNhaSach.exe
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.BaoCaoCongNo.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.BaoCaoTon.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.LapHoaDon.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.Operation.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.MainForm.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.ShippingFee.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.PhieuThuTien.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.QuiDinh.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.SachForm.resources
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.exe
+C:\Users\Administrator\Desktop\New folder (6)\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.pdb
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\bin\Debug\QuanLyNhaSach.exe
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.BaoCaoCongNo.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.BaoCaoTon.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.LapHoaDon.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.Operation.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.MainForm.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.ShippingFee.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.PhieuThuTien.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.QuiDinh.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\CNPM.SachForm.resources
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.exe
+C:\Users\Administrator\Desktop\MTK_PROJECT\QLNS_DesignPattern-main\obj\x86\Debug\QuanLyNhaSach.pdb
